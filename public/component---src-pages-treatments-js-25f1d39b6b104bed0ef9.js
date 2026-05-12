@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[130],{5050:function(e,t,s){s.r(t);var a=s(6540),u=s(4810);t.default=()=>((0,a.useEffect)(()=>{(0,u.oo)("/spine-condition/slipped-or-herniated-disc/")},[]),null)}}]);
+//# sourceMappingURL=component---src-pages-treatments-js-25f1d39b6b104bed0ef9.js.map
